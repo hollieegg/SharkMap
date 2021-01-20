@@ -1,0 +1,46 @@
+
+.header {
+    background-color: #293541;
+    text-align: center;
+    padding: 10px;
+    color:white;
+  }
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 54px;
+
+   
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    font-weight: 20;
+}
+
+/* --------------------------------------------------------------------------- */
+.footer {
+    background-color: #29354171;
+    text-align: center;
+    padding: 1px;
+    color:white;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .footerlink:link {
+    color:#293541;
+    text-decoration: none;
+  }
+  
+  .footerlink:hover {
+    color:#293541;
+    text-decoration: underline;
+  }
+  
+  .footerlink:visited {
+    color:#293541;
+    text-decoration: none;
+  }
+  
