@@ -1,2 +1,0 @@
-# GoogleMaps
-Google map projects
